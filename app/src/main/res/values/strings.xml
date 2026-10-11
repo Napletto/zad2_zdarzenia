@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Licznik kliknięć</string>
+    <string name="count_label">Licznik:</string>
+    <string name="btn_plus">+1</string>
+    <string name="btn_minus">−1</string>
+    <string name="btn_reset">Reset</string>
+    <string name="toast_negative">Nie można zejść poniżej zera</string>
+</resources>
